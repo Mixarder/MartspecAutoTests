@@ -56,17 +56,29 @@ public class MartspecTagsTest {
         };
 
         String[] expectedDescriptions = {
+                // Landing
                 "Приложения для тех, кто заботится о своём здоровье. Удобный и простой способ следить за параметрами тела и своим эмоциональным состоянием.",
+                //About
                 "С 2020 года мы создаем приложения с использованием передовых технологий, которые помогают вам оставаться здоровыми и счастливыми.",
+                //Privacy
                 "Защита вашей личной информации — наш основной приоритет. На данной странице описана наша политика в отношении сбора, использования и раскрытия вашей информации.",
+                //Mission
                 "Мы хотим, чтобы каждый мог быстро и легко следить за своим здоровьем и самочувствием.",
-                "Команда Martspec  — инженеры, дизайнеры и копирайтеры, которые создают лучшие приложения для здоровья.",
+                //Team
+                "Люди, стоящие за компанией, так же важны, как и сама компания. Познакомьтесь с нашими талантливыми инженерами-программистами, дизайнерами и копирайтерами, которые создают лучшие оздоровительные приложения.",
+                //Body Mass
                 "Трекер веса помогает повысить эффективность тренировок, а также скорректировать питание. Простое приложение Apple Watch с поддержкой Apple Health.",
+                //Body Zinc
                 "Цинк укрепляет иммунитет, стабилизирует уровень сахара в крови и помогает коже, глазам и сердцу оставаться здоровыми. Отслеживайте потребление цинка с помощью нашего приложения.",
+                //Body Size
                 "Индивидуальные измерения тела и биоритмы. Отслеживайте важные для вас параметры тела и биоритмы. Поддержка показателей формы тела, потребности в энергии, ИМТ и многое другое.",
+                //Electrolyte
                 "Электролиты — важные компоненты организма. Легко контролируйте их с помощью нашего приложения для Apple Watch, полная интеграция с Apple Health.",
+                //Emotion
                 "Перепады настроения? Эмоциональные качели? Выясните основную причину всего за 1 минуту.",
+                //Waistlane
                 "Простое в использовании приложение Apple Watch для записи объема талии. Полная поддержка Apple Health.",
+                //Vitamin
                 "Отслеживайте витамины, минералы и другие добавки на Apple Watch, iPhone, iPad или Mac с помощью нашего удобного приложения. Бесплатная синхронизация данных с Apple Health."
         };
 
@@ -149,13 +161,13 @@ public class MartspecTagsTest {
                 // Landing
                 "Control your health and happiness with beautifully simple Martspec apps. Track your physical and mental wellness with ease as your well-being improves.",
                 //About
-                "We believe passionately in the power of ideas to change attitudes, lives, and, ultimately, the world. The first idea was an app to track body weight directly from wearable devices. We have created the Body Mass app for Apple Watch to make it easy to track body weight and record measurements directly into Apple Health from your wrist.",
+                "Since 2020, we've been creating apps using cutting-edge technology that empowers you to take charge of your personal health and wellness journey.",
                 //Privacy
                 "Protecting your private information is our priority. This page describes our policies and procedures on the collection, use and disclosure of your information when you use any of our mobile apps, visit our website at martspec.com or engage with us in other related ways - including sales, marketing or events.",
                 //Mission
                 "We make it quick and easy for everyone to track their health and wellness.",
                 //Team
-                "People behind company are as important as the company itself. Meet our highly talented software engineers & designers who make the best wellness apps.",
+                "People behind company are as important as the company itself. Meet our highly talented software engineers, designers & copywriters who make the best wellness apps.",
                 //Body Mass
                 "Tracking your weight boosts your efficiency in terms of your time and workouts. Easy to use Apple Watch app with the full support of Apple Health.",
                 //Body Zinc
@@ -252,13 +264,13 @@ public class MartspecTagsTest {
                 // Landing
                 "Контролюйте своє здоров'я та настрій за допомогою простих додатків Martspec. Легко відстежуйте свій фізичний і психічний стан, і як покращується ваше самопочуття.",
                 //About
-                "Ми щиро віримо в те, що ідеї здатні змінювати ставлення, життя і, зрештою, світ. Першою ідеєю був додаток для відстеження ваги тіла безпосередньо з натільних пристроїв. Ми створили додаток Вага для Apple Watch, щоб полегшити відстеження маси тіла та запис вимірювань безпосередньо в Apple Health з вашого зап'ястя.",
+                "З 2020 року ми створюємо застосунки, використовуючи передові технології, які дають вам змогу взяти на себе відповідальність за своє здоров’я та самопочуття.",
                 //Privacy
                 "Захист вашої особистої інформації є нашим пріоритетом. Ця сторінка описує нашу політику та процедури щодо збору, використання та розкриття вашої інформації, коли ви використовуєте будь-який з наших мобільних додатків, відвідуєте наш веб-сайт martspec.com або взаємодієте з нами іншими способами, включаючи продажі, маркетинг або заходи.",
                 //Mission
                 "Ми робимо так, щоб кожен міг швидко та легко відстежувати своє здоров'я та самопочуття.",
                 //Team
-                "Люди, які працюють в компанії, так само важливі, як і сама компанія. Познайомтеся з нашими талановитими інженерами, дизайнерами та копірайтерами, які створюють найкращі оздоровчі програми.",
+                "Люди, які створюють компанію, так само важливі, як і сама компанія. Познайомтеся з нашими талановитими інженерами-програмістами, дизайнерами та копірайтерами, які створюють найкращі оздоровчі додатки.",
                 //Body Mass
                 "Відстеження ваги підвищує ефективність використання часу та тренувань. Простий у використанні додаток для Apple Watch з повною підтримкою Apple Health.",
                 //Body Zinc
@@ -354,13 +366,13 @@ public class MartspecTagsTest {
                 // Landing
                 "Kontrollieren Sie Ihre Gesundheit und Ihr Glück mit den wunderbar einfachen Martspec-Apps. Verfolgen Sie Ihr körperliches und geistiges Wohlbefinden mit Leichtigkeit, während sich Ihr Wohlbefinden verbessert.",
                 //About
-                "Wir glauben leidenschaftlich an die Kraft von Ideen, die Einstellungen, Leben und letztlich die Welt verändern können. Die erste Idee war eine App zur Erfassung des Körpergewichts direkt über tragbare Geräte. Wir haben die Body Mass App für die Apple Watch entwickelt, mit der Sie Ihr Körpergewicht und Ihre Messwerte direkt von Ihrem Handgelenk aus in Apple Health erfassen können.",
+                "Seit 2020 entwickeln wir Apps mit modernster Technologie, die es Ihnen ermöglichen, Ihre persönliche Reise zu Gesundheit und Wohlbefinden selbst in die Hand zu nehmen.",
                 //Privacy
                 "Der Schutz Ihrer persönlichen Daten ist unsere Priorität. Auf dieser Seite werden unsere Richtlinien und Verfahren für die Erfassung, Verwendung und Weitergabe Ihrer Daten beschrieben, wenn Sie eine unserer mobilen Apps verwenden, unsere Website martspec.com besuchen oder auf andere Weise mit uns in Kontakt treten - einschließlich Vertrieb, Marketing oder Veranstaltungen.",
                 //Mission
                 "Wir machen es für jeden einfach, seine Gesundheit und sein Wohlbefinden zu verfolgen.",
                 //Team
-                "Die Menschen hinter dem Unternehmen sind genauso wichtig wie das Unternehmen selbst. Lernen Sie unsere hochtalentierten Ingenieure, Designer und Copywriter kennen, die die besten Wellness-Apps entwickeln.",
+                "Die Menschen hinter dem Unternehmen sind genauso wichtig wie das Unternehmen selbst. Lernen Sie unsere hochtalentierten Software-Ingenieure, Designer und Werbetexter kennen, die die besten Wellness-Anwendungen entwickeln.",
                 //Body Mass
                 "Die Verfolgung Ihres Gewichts steigert Ihre Effizienz in Bezug auf Ihre Zeit und Ihr Training. Einfach zu bedienende Apple Watch App mit der vollen Unterstützung von Apple Health.",
                 //Body Zinc
@@ -457,13 +469,13 @@ public class MartspecTagsTest {
                 // Landing
                 "Contrôlez votre santé et votre bonheur grâce aux applications Martspec d'une grande simplicité. Suivez l'évolution de votre bien-être physique et mental au fur et à mesure qu'il s'améliore.",
                 //About
-                "Nous croyons passionnément au pouvoir des idées pour changer les attitudes, les vies et, en fin de compte, le monde. La première idée était une application permettant de suivre le poids corporel directement à partir d'appareils portables. Nous avons créé l'application Body Mass pour l'Apple Watch afin de faciliter le suivi du poids corporel et l'enregistrement des mesures directement dans Apple Health à partir de votre poignet.",
+                "Depuis 2020, nous créons des applications utilisant une technologie de pointe qui vous permet de prendre en charge votre parcours personnel de santé et de bien-être.",
                 //Privacy
                 "La protection de vos informations privées est notre priorité. Cette page décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de vos informations lorsque vous utilisez l'une de nos applications mobiles, visitez notre site Web à l'adresse martspec.com ou vous engagez avec nous d'autres façons connexes - y compris les ventes, le marketing ou les événements.",
                 //Mission
                 "Nous permettons à chacun de suivre rapidement et facilement son état de santé et de bien-être.",
                 //Team
-                "Les personnes qui se trouvent derrière une entreprise sont aussi importantes que l'entreprise elle-même. Rencontrez nos ingénieurs, concepteurs et rédacteurs très talentueux qui créent les meilleures applications de bien-être.",
+                "Les personnes à l'origine de l'entreprise sont aussi importantes que l'entreprise elle-même. Rencontrez nos ingénieurs logiciels, concepteurs et rédacteurs hautement talentueux qui créent les meilleures applications de bien-être.",
                 //Body Mass
                 "Le suivi de votre poids augmente votre efficacité en termes de temps et de séances d'entraînement. L'application Apple Watch est facile à utiliser et bénéficie de la prise en charge complète d'Apple Health.",
                 //Body Zinc
